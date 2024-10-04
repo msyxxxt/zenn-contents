@@ -2,7 +2,7 @@
 title: "コピペでrails開発環境の構築をする"
 emoji: "🚊"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: [”Ruby”, "Rails", "Docker"]
+topics: ["Ruby", "Rails", "Docker"]
 published: true
 published_at: 2024-10-05 08:00
 ---
