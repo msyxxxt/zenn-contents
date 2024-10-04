@@ -17,9 +17,13 @@ cd minimum-rails-kit
 2.GemfileとGemfile.lockを作成する
 ```Bash
 touch Gemfile Gemfile.lock
+```
 
+```Bash
 vi Gemfile
+```
 
+```Bash:Gemfile
 source 'https://rubygems.org'
 gem 'rails', '~>7.0.0'
 ```
